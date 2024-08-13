@@ -1,6 +1,7 @@
 html {
     background-color: #ECDFCC;
     text-align: center;
+    overflow-x: scroll;
 }
 
 #selfportrait {
